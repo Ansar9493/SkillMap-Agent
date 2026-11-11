@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ansar9493/SkillMap-Agent/blob/main/SkillMap_Agent_Public.ipynb)
+
+
+
 # SkillMap-Agent
 AI-powered career intelligence agent using LangChain and Gemini
 
